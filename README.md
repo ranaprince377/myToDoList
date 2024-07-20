@@ -22,7 +22,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/myToDoList.git
+   git clone https://github.com/ranaprince377/myToDoList.git
    ```
 2. **Navigate to the project directory:**
    ```bash
@@ -51,10 +51,6 @@ Follow these instructions to get a copy of the project up and running on your lo
 ## Contributing
 
 If you have suggestions for improving the app, feel free to submit a pull request or open an issue. Contributions are always welcome!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
